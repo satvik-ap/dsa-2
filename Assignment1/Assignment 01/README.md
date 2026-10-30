@@ -79,17 +79,17 @@ filenames.
 
 ### 1. C++ Output
 
-<img width="1085" height="280" alt="Screenshot 2026-10-30 at 9 45 36 PM" src="https://github.com/user-attachments/assets/1b933f16-3e9a-42f3-9282-244ed1d8e2c0" />
+<img width="1354" height="1161" alt="image" src="https://github.com/user-attachments/assets/32c03bd6-017d-4a9f-9a52-b7ac4e435d7a" />
 
 
 ### 2. Java Output
 
-<img width="983" height="242" alt="image" src="https://github.com/user-attachments/assets/ecef587f-c7a9-451f-a59a-0e4881147d3d" />
+<img width="1508" height="1043" alt="image" src="https://github.com/user-attachments/assets/87eba72b-8172-4d7c-b0b1-9f75073af579" />
 
 
 ### 3. Python Output
 
-<img width="972" height="185" alt="Screenshot 2026-10-30 at 9 47 57 PM" src="https://github.com/user-attachments/assets/56a093b3-85c4-44a0-9857-64cb570eaedb" />
+<img width="1670" height="942" alt="image" src="https://github.com/user-attachments/assets/e29f3743-a763-424b-b304-1fa9dc73209d" />
 
 ## Conclusion
 
